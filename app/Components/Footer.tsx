@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <footer className="bg-yellow-400 text-blue py-4 px-8">
             <div className="flex justify-between items-center">
-                <p className="text-sm">© 2020 Kearney Unlocking Services LLC</p>
+                <p className="text-sm">© 2024 Kearney Unlocking Services LLC</p>
                 <div className="flex space-x-4">
                     <Link href="/About">
                         <span className="hover:underline text-grey">About Us</span>
